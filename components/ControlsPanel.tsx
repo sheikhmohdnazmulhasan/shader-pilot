@@ -1283,7 +1283,7 @@ export const ControlsPanel: React.FC = () => {
               <AdjustmentsIcon className="w-5 h-5 text-cyan-400" />
               <span>Gemini Shader Pilot</span>
               <span className="text-xs font-normal text-gray-400 ml-1">
-                  by <a href="https://x.com/pitaru" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">@pitaru</a>
+                  by <a href="https://github.com/sheikhmohdnazmulhasan" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">@sheikhmohdnazmulhasan</a>
               </span>
           </h2>
           <div className="flex items-center gap-3">
